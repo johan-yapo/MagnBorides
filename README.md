@@ -34,4 +34,15 @@ Linux
 python -m venv env
 source env/bin/activate
 ```
+Install Requirements
+
+Windows
+```
+pip install -r win_requirements.txt
+```
+Linux
+```sh
+pip install -r requirements.txt
+```
+## Background
 
