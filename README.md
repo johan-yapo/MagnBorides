@@ -21,6 +21,7 @@ To clone the **MagnBorides** repository, use the following command:
 ```sh
 git clone https://github.com/johan-yapo/MagnBorides.git
 ```
+
 ## 2) Installation
 Create & Start Virtual Environment
 
@@ -44,6 +45,13 @@ Linux
 ```sh
 pip install -r requirements.txt
 ```
+install Git Large File Storage (needed for the datasets)
+
+```
+pip install git-lfs
+```
+
+
 ## Background
 
 
