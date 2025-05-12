@@ -52,6 +52,7 @@ pip install git-lfs
 ```
 
 
-## Background
+## Acknowledgements
+I would like to thank Andrew Krikorian for all his help on this project designing our deep learning models and automation protocals
 
 
